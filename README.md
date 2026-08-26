@@ -274,5 +274,3 @@ The broader project received an **IRD research grant of ₹2 lakh** and was deve
 
 
 
-Add your preferred open-source license here, such as MIT, Apache-2.0, or GPL-3.0.
-
